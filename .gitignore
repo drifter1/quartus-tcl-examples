@@ -1,0 +1,8 @@
+*.qpf
+*.qsf
+
+db/
+incremental_db/
+reports/
+
+c5_pin_model_dump.txt
